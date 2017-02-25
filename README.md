@@ -1,2 +1,5 @@
 # hello-world
-hello world project
+
+Hola a todos!
+
+Estoy practicando como crear proyectos siguiendo el tutorial de github.
